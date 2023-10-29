@@ -8,6 +8,7 @@ How I started the project:
 4. Change the paths to pictures and pages (if necessary)
 
 The site contains a registration form and a login. There is also an admin panel.
+You can write comments, and also send a letter to the mail for feedback.
 
 
 ![HTML](https://img.shields.io/badge/-HTML-239120?logo=html5&logoColor=white)
