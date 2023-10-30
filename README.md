@@ -1,5 +1,4 @@
 # travel-agency-website
-My bachelor's project at the university
 
 How I started the project:
 1. Configure MAMP.
@@ -7,8 +6,8 @@ How I started the project:
 3. In PhpMyadmin, create the user "c12ivan" with the password "Talan2020!@", create the "c12ivan" database (contents in the file c12ivan.sql).
 4. Change the paths to pictures and pages (if necessary)
 
-The site contains a registration form and a login. There is also an admin panel.
-You can write comments, and also send a letter to the mail for feedback.
+You can log in/register on the site. There is an admin panel through which you can add/delete tours, you can also see which users are registered.
+You can comment and view blogs or tours.
 
 
 ![HTML](https://img.shields.io/badge/-HTML-239120?logo=html5&logoColor=white)
